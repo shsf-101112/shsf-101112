@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sana!
 
-<!--
-**shsf-101112/shsf-101112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **IT Engineering Student**  
+ Problem Solver | Full-Stack Explorer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟**About Me**
+
+I'm Sana, an IT engineering student passionate about technology, creativity, and building solutions that make a difference. I thrive on solving problems, learning new things, and turning ideas into reality—whether it's through code or design.
+
+---
+
+🌟 **Skills & Tools**
+
+- **Languages:** HTML, CSS, JavaScript, Python, Java
+- **Frameworks & Libraries:** Angular, React, Node.js
+- **Design:** Figma, Canva
+- **Interests:** AI & ML, Frontend & Backend Development, Creative Problem Solving
+
+---
+
+🌟 **What Drives Me**
+
+- Turning complex challenges into simple, elegant solutions
+- Bridging the worlds of design and development
+- Exploring the latest in AI and machine learning
+- Continuous learning and curiosity
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+Thanks for stopping by my profile! 
